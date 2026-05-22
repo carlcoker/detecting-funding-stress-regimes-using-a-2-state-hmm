@@ -1,6 +1,0 @@
-Key Findings
-
-- The HMM successfully separates the sample into persistent calm and stress regimes.
-- Stress regimes are associated with substantially higher implied volatility.
-- Major stress periods, including COVID 2020 and the 2023 regional banking instability, coincide with higher probabilities of the stress regime.
-- The high persistence of estimated states suggests that liquidity conditions tend to cluster rather than fluctuate randomly through time.
