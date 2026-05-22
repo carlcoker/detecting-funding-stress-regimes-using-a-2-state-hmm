@@ -7,3 +7,11 @@ Liquidity and funding stress are central to fixed income and securities financin
 Using publicly available funding and volatility indicators, the model attempts to classify periods into latent “calm” and “stress” regimes. The objective is not to build a predictive trading system, but to demonstrate how regime based modelling can be used to interpret changing liquidity conditions in financial markets.
 
 The project was motivated by an interest in funding markets, collateral dynamics, and the role liquidity conditions play during periods of market stress such as COVID 2020 and the 2023 regional banking instability.
+
+
+# Key Findings
+
+- The HMM successfully separates the sample into persistent calm and stress regimes.
+- Stress regimes are associated with substantially higher implied volatility.
+- Major stress periods, including COVID 2020 and the 2023 regional banking instability, coincide with higher probabilities of the stress regime.
+- The high persistence of estimated states suggests that liquidity conditions tend to cluster rather than fluctuate randomly through time.
