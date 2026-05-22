@@ -25,8 +25,8 @@ The objective of the project is not prediction or trading signal generation, but
 
 ### Liquidity Stress Regime Probability
 
-![Stress Regime](outputs/stress_regime_probability.png)
+![Stress Regime](outputs/stress_regime_probability.PNG)
 
 ### Funding Spread
 
-![Funding Spread](outputs/funding_spread.png)
+![Funding Spread](outputs/funding_spread.PNG)
