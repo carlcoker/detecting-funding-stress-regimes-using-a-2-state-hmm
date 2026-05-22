@@ -20,3 +20,13 @@ This project is intentionally simplified and should not be interpreted as a prod
 In addition, the model assumes only two latent regimes and Gaussian state dynamics, which may oversimplify real market behaviour during periods of extreme stress. The analysis is also sensitive to the chosen input variables and smoothing assumptions.
 
 The objective of the project is not prediction or trading signal generation, but rather to demonstrate how probabilistic regime based modelling can be used to interpret changing liquidity conditions in financial markets.
+
+## Outputs
+
+### Liquidity Stress Regime Probability
+
+![Stress Regime](outputs/stress_regime_probability.png)
+
+### Funding Spread
+
+![Funding Spread](outputs/funding_spread.png)
